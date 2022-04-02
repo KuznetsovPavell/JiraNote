@@ -1,0 +1,6 @@
+Jira Login Form:
+
+// id="login-form-username"
+// name="os_username"  
+// id="login-form-password"
+// name="os_password"

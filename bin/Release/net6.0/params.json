@@ -1,0 +1,37 @@
+﻿{
+  "jira_url": "https://jira.unity-bars.com",
+  "jira_url_add": "rest/api/2/issue",
+  "jira_login": "pavlo.kuznetsov",
+  "jira_pass": "+Zse4M55(",
+  "gmail_login": "gmailLog",
+  "gmail_pass": "gmailPwd",
+  "git_repo_dir": "C:\\Git\\obuabs\\mmfo",
+  "releases_dir": "D:\\Projects\\Release",
+  "note_file": "release_note.txt ",
+  "dbconnect": [
+    {
+      "target_branch": "test",
+      "release_name": "TestRelease"
+    },
+    {
+      "target_branch": "sdo",
+      "release_name": "Test_update"
+    },
+    {
+      "target_branch": "rc_test",
+      "release_name": "Release"
+    },
+    {
+      "target_branch": "master",
+      "release_name": "BugFix"
+    },
+    {
+      "target_branch": "bugfix",
+      "release_name": "BugFix"
+    },
+    {
+      "target_branch": "dev",
+      "release_name": "dev",
+    }
+  ]
+}

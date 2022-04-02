@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JiraNote": {
+      "commandName": "Project",
+      "commandLineArgs": "BugFix_2.0.111.1.24 bugfix 2.0.111.1.25 bugfix"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+D:\Solutions\CSharp\ReleaseOut\JiraNote.pdb
+D:\Solutions\CSharp\ReleaseOut\params.json
+D:\Solutions\CSharp\ReleaseOut\git2-106a5f2.dll
+D:\Solutions\CSharp\ReleaseOut\git2-106a5f2.pdb
+D:\Solutions\CSharp\ReleaseOut\JiraNote.exe
